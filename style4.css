@@ -1,0 +1,15 @@
+form{
+    font-weight: normal;
+}
+
+#visitante{
+    font-weight: bolder;
+    font-size: large;
+    color:  red;
+}
+
+.textlabel{
+    background-color: greenyellow;
+    width: 150px;
+    margin-bottom: 10px;
+}
